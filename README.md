@@ -1,4 +1,4 @@
-# Java Maven Project
+# Chas Diagnostisk Uppgift
 
 This project is a simple Java Maven application with groupId `org.example`.
 
